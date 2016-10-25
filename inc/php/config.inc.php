@@ -2,7 +2,7 @@
     /* ========================================================================================
     
         Author: Brandon Bradley (flatdaysfun@gmail.com)
-        Description of prject and class: 
+        Description: 
         - A SQL import file ("initDBtable.sql") is supplied for an intiation of a database to model off.
 
     ============================================================================================ */ 
