@@ -6,7 +6,7 @@
 # http://code.google.com/p/sequel-pro/
 #
 # Host: flatdaysfun.co.za (MySQL 5.6.33)
-# Database: flatdwba_site
+# Database: XXXXXXXXXXXX
 # Generation Time: 2016-10-25 12:17:27 +0000
 # ************************************************************
 
